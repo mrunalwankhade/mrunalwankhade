@@ -2,7 +2,7 @@
 - 👀 I’m interested in the data domain.
 - 🌱 I’m currently learning machine learning and ai
 - 💞️ I’m looking to collaborate on real-world project regarding machine learning and data feild.
-- 📫 How to reach me - mrunalwankhade123@gmail.com
+- 📫 How to reach me - mrunal123wankhade@gmail.com
 
 <!---
 mrunalwankhade/mrunalwankhade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
